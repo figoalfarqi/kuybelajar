@@ -1,0 +1,50 @@
+       html
+        {
+          min-height:100vh;
+        }
+        body
+        {
+          min-height: 100vh;
+          position: relative;
+          box-sizing: border-box;
+          background-color: #f7f5f5;
+          padding-bottom: 50px; //height of the footer
+        }
+
+      .fontKeras
+      {
+        font-family: 'Halant', serif;
+        font-weight: 600;
+        font-size: 18px;
+      }
+      .fontKerasBesar
+      {
+        font-family: 'Halant', serif;
+        font-weight: 600;
+        font-size: 22px;
+      }
+
+      .fontLembutBesar
+      {
+        line-height: 5px;
+        font-family: 'Nunito', sans-serif;
+        font-weight: 700;
+        font-size: 13px;
+        color: dimgrey;
+      }
+      .fontLembutKecil
+      {
+        font-family: 'Nunito', sans-serif;
+        font-weight: 700;
+        font-size: 12px;
+      }
+
+      .videoPutar{
+          cursor: pointer;
+        }
+        .videoPutar:hover{
+          transition: 0.5s;
+          -webkit-box-shadow: 2px 2px 6px 10px #e5e5e5;
+          -moz-box-shadow:    2px 2px 6px 10px #e5e5e5;
+          box-shadow:         2px 2px 6px 10px #e5e5e5;
+        }
