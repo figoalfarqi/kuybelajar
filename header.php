@@ -285,7 +285,7 @@
       
             <div class="row no-gutters">
                 <div class="col-lg-5">
-                    <img src="Daftar/login.jpg" class="img-fluid gambarLogin" alt="">
+                    <img src="asset/login.jpg" class="img-fluid gambarLogin" alt="">
                 </div>
                 <div class="col-lg-7 px-5 pt-5">
                     <h1 class="font-weight-bold py-3">KuyBelajar LOGIN</h1>
@@ -326,7 +326,7 @@
       
             <div class="row no-gutters">
             <div class="col-lg-5 ">
-                <img src="Daftar/Daftar/daftar.jpg" class="img-fluid imgDaftar" alt="">
+                <img src="asset/daftar.jpg" class="img-fluid imgDaftar" alt="">
             </div>
             <div class="col-lg-7 px-5 pt-10">
                 <h1 class="font-weight-bold py-1">KuyBelajar DAFTAR </h1>
